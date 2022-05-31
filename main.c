@@ -171,7 +171,7 @@ void ex02(){
     soma = 0;
     for(i = 0; i <N; i++){
 
-        fib = a + b;
+       fib = a + b;
 
 
        sinal = b/div;
@@ -224,8 +224,6 @@ int i;
 
         div += 2;
     }
-
-
 }
 
 void ex04(int N, float *soma){
@@ -253,7 +251,6 @@ void ex04(int N, float *soma){
        }
         div += 2;
     }
-
 }
 
 float globalN05(){
@@ -272,8 +269,7 @@ int i;
     somaEx05 = 0;
     for(i = 0; i < x; i++){
 
-        fib = a + b;
-
+       fib = a + b;
 
        sinal = b/div;
 
@@ -294,9 +290,6 @@ return somaEx05;
 
 }
 
-
-
-
 float ex06(float x){
 
 float a, b, fib, div, sinal, somaEx06;
@@ -308,8 +301,7 @@ int i;
     somaEx06 = 0;
     for(i = 0; i < x; i++){
 
-        fib = a + b;
-
+       fib = a + b;
 
        sinal = b/div;
 
@@ -327,7 +319,6 @@ int i;
 
 
 return somaEx06;
-
 }
 
 void pulaLinha(){
