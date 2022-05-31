@@ -1,0 +1,11 @@
+# Google App Engine generated folder
+appengine-generated/
+
+obj/Debug
+.vscode
+*.exe 
+*.cbp
+*.depend
+*.layout
+
+All.c
